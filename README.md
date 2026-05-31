@@ -1,2 +1,5 @@
 # Opt-box
 공공데이터 기반으로 대전 서구·대덕구의 무인택배함 최적 입지를 분석한 프로젝트입니다. 인구밀도·교통량·시설 후보지 데이터를 결합하고 α-coverage와 p-median 모델을 활용해 접근성, 형평성, 운영 효율을 개선하는 입지 재배치 방안을 제안했습니다.
+
+
+<img width="377" height="450" alt="image" src="https://github.com/user-attachments/assets/3e375ee7-b637-4ee9-98db-08c409d92e7b" />
